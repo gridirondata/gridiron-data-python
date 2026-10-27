@@ -23,7 +23,7 @@ classifiers = [
 [project.urls]
 Homepage = "https://www.gridirondata.com"
 Documentation = "https://www.gridirondata.com/pages/docs.html"
-Source = "https://github.com/avansledright/gridiron-data-python"
+Source = "https://github.com/gridirondata/python-client"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/gridirondata"]

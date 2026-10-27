@@ -11,7 +11,7 @@ One runtime dependency (`requests`), Python 3.8+.
 The package isn't on PyPI yet. Install it straight from GitHub:
 
 ```bash
-pip install "git+https://github.com/avansledright/gridiron-data-python"
+pip install "git+https://github.com/gridirondata/python-client"
 ```
 
 ## Quickstart
